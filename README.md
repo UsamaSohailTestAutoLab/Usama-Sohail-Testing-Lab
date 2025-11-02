@@ -1,121 +1,124 @@
-<!-- 🌟 HEADER SECTION -->
+<!-- 🧪 HEADER: QA-THEMED ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&lines=Hi+👋%2C+I'm+Usama+Sohail;Full+Stack+QA+Engineer;Automation+%7C+Performance+%7C+DevOps;7%2B+Years+of+QA+Excellence+💻" alt="Typing SVG" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDg1bzB2dHpwbndzcmh5ZG9iYWhzd3l5eG5ybjZrOXVydXgzY3JpOCZlcD12MV9naWZzX3NlYXJjaCZjdD1n/EY8oCCxY2G4A8/giphy.gif" width="650"/>
 </div>
+
+<!-- 🧑‍💻 INTRO -->
+<h1 align="center">Hi 👋, I'm <span style="color:#00FFFF;">Usama Sohail</span></h1>
+<h3 align="center">🚀 Full Stack QA Engineer | Automation | Performance | CI/CD | Azure DevOps</h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/usama-sohail-471aa0116/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="mailto:usamasohail28@gmail.com"><img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/usamasohail28"><img src="https://img.shields.io/badge/GitHub-usamasohail28-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:usamasohail28@gmail.com"><img src="https://img.shields.io/badge/Gmail-Contact%20Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/usamasohail28"><img src="https://img.shields.io/badge/GitHub-usamasohail28-171515?style=for-the-badge&logo=github&logoColor=white" /></a>
 </p>
 
 ---
 
-<!-- 🌊 ANIMATED WAVE -->
-<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
-
-<!-- 🧪 INTRO -->
-<h2 align="center">🧪 Welcome to <b>Usama Sohail Testing Lab</b> ⚙️</h2>
-<p align="center">
-I’m a <b>Full-Stack QA Engineer</b> passionate about ensuring high-quality, scalable, and high-performing applications.<br>
-With <b>7+ years of experience</b> in automation, manual testing, and performance engineering, I specialize in <b>Selenium, Cypress, Playwright, JMeter, Grafana, Azure DevOps, and CI/CD</b>.<br>
-Delivering quality through automation and innovation is my mission. 🚀
-</p>
-
----
-
-<!-- 🖼️ CENTER ANIMATION -->
+<!-- ✨ TYPING INTRO -->
 <div align="center">
-  <img src="https://media.giphy.com/media/L1R1tvI9svkIWwpVYr/giphy.gif" width="600"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=700&lines=Quality+is+Not+an+Act%2C+It's+a+Habit.;Automation+%26+Performance+Testing+Specialist;Delivering+Seamless+User+Experiences+Through+QA+Excellence" alt="Typing Animation" />
 </div>
 
 ---
 
+<!-- 🌊 ANIMATED DIVIDER -->
+<img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
+
+---
+
+## 🧪 Welcome to **Usama Sohail Testing Lab**
+<p align="center">
+I’m a <b>Full-Stack QA Engineer</b> with <b>7+ years of experience</b> ensuring quality through <b>automation, performance, and DevOps integration</b>.<br>
+Specialized in <b>Selenium, Cypress, Playwright, JMeter, Grafana, and Azure DevOps</b>.<br>
+I focus on building frameworks that make testing <b>smarter, faster, and scalable</b>. 🧠
+</p>
+
+---
+
+<!-- 🔧 CURRENT WORK -->
+## 🔭 Currently Working On
+- ⚙️ QA Automation frameworks using **Cypress** and **Playwright**
+- 🚀 Performance dashboards with **JMeter + Grafana**
+- 🌩️ Azure DevOps pipelines for end-to-end automation
+- 🌐 Frontend & API validation for large-scale enterprise apps
+
+---
+
+<!-- 💼 EXPERIENCE -->
 ## 💼 Professional Experience
 
-### 🏢 Exceed IT (2022–Present)
-- Automated and performance-tested Exceed products using **JMeter**, **Selenium**, and **Azure Pipelines**  
-- Built and monitored **Grafana dashboards** for live system metrics  
-- Integrated test executions with **CI/CD pipelines**
+### 🏢 **Exceed IT (2022–Present)**
+- Built distributed performance test architecture using **JMeter** and **InfluxDB**
+- Integrated results with **Grafana** dashboards and **Azure pipelines**
+- Conducted **UI load testing** using Selenium Grid
 
-### 🏢 Systems Limited (2021–2022)
-- Automated multiple features using **Selenium with Python and CI/CD pipelines**  
-- Performed **API testing** using Postman and **defect tracking via Jira**
+### 🏢 **Systems Limited (2021–2022)**
+- Automated key modules using **Selenium with Python**
+- Managed continuous test runs in **Azure CI/CD**
+- Conducted **API testing** and defect tracking via **Jira**
 
-### 🏢 Speridian Tech (2020–2021)
-- Performed **web and mobile automation** using **Appium & Selenium**  
-- Coordinated QA tasks and team management for client projects
+### 🏢 **Speridian Tech (2020–2021)**
+- Designed **hybrid automation frameworks**
+- Executed **mobile automation** with **Appium**
+- Acted as QA lead for product test planning
 
-### 🏢 Optima Geeks (2018–2020)
-- Wrote and executed **manual and regression test cases**  
-- Conducted **backend testing** integrated with CRM
-
----
-
-<!-- 🚀 CURRENT FOCUS -->
-## 🔭 Currently Working On
-- ⚙️ Advanced QA Automation Frameworks using **Cypress** and **Playwright**
-- 🧩 Integrating **JMeter** results with **Grafana Dashboards**
-- 🚀 Azure DevOps pipelines for test automation reporting
-- 🌐 Distributed test execution with Selenium Grid
+### 🏢 **Optima Geeks (2018–2020)**
+- Managed **manual + backend testing** integrated with CRM systems
+- Coordinated test cycles & client communications
 
 ---
 
-<!-- 🎯 SKILLS SECTION WITH ANIMATED ICONS -->
-<h2 align="center">🧠 Tech Arsenal</h2>
-
+<!-- 🧠 SKILLS GRID -->
+## 🧠 Tech Arsenal
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=selenium,typescript,js,java,cypress,playwright,postman,azure,grafana,jenkins,gitlab,jira" />
+  <img src="https://skillicons.dev/icons?i=selenium,cypress,playwright,javascript,typescript,java,postman,azure,grafana,jenkins,gitlab,jira&theme=dark" />
 </p>
 
 ---
 
-<!-- ⚙️ TESTING TOOL ICONS -->
-<div align="center">
-  <img src="https://github.com/ArshErgon/ArshErgon/blob/main/QA.gif" width="700">
-</div>
-
----
-
+<!-- 🏆 ACHIEVEMENTS -->
 ## 🏆 Achievements
-✨ Designed and implemented **generic Selenium frameworks** for multiple enterprise products  
-⚙️ Integrated **automated test runs with Azure DevOps pipelines**  
-🌍 Conducted **distributed load testing** using JMeter and Selenium Grid  
-📈 Built **real-time Grafana dashboards** for live performance tracking  
+🌟 Built a **Generic Selenium Framework** for multi-environment testing  
+⚙️ Automated **CI/CD pipeline execution** in Azure DevOps  
+📊 Created **real-time Grafana dashboards** for JMeter performance data  
+🧩 Conducted **distributed testing** using Selenium Grid + JMeter  
 
 ---
 
-<!-- 📊 GITHUB STATS -->
-<h2 align="center">📊 GitHub Stats</h2>
+<!-- ⚙️ GITHUB STATS (FIXED MIRRORS) -->
+## 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=usamasohail28&show_icons=true&theme=tokyonight&count_private=true" alt="stats" height="160"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=usamasohail28&theme=tokyonight&hide_border=false" alt="streak" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=usamasohail28&layout=compact&theme=tokyonight" alt="langs" height="160"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=usamasohail28&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" height="165" />
+  <img src="https://github-readme-streak-stats-salesp07.vercel.app/?user=usamasohail28&theme=tokyonight" height="165" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=usamasohail28&layout=compact&langs_count=8&theme=tokyonight" height="165" />
 </div>
 
 ---
 
-<!-- 🏅 TROPHIES -->
-<h2 align="center">🏅 GitHub Achievements</h2>
+<!-- 🏅 TROPHIES (ALTERNATE SERVER) -->
+<h2 align="center">🏅 GitHub Trophies</h2>
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=usamasohail28&theme=algolia&margin-w=15&margin-h=15&row=1&column=6" />
+  <img src="https://github-profile-trophy-salesp07.vercel.app/?username=usamasohail28&theme=algolia&margin-w=15&margin-h=15&column=6" />
 </p>
 
 ---
 
-<!-- 🔄 ANIMATED WAVE FOOTER -->
+<!-- 🌊 FOOTER WAVE -->
 <img src="https://raw.githubusercontent.com/andreasbm/readme/master/assets/lines/colored.png" width="100%" />
 
+<!-- 🤝 CONTACT -->
 <h3 align="center">🤝 Connect With Me</h3>
 <p align="center">
-  📧 <b>Email:</b> <a href="mailto:usamasohail28@gmail.com">usamasohail28@gmail.com</a> <br>
-  🔗 <b>LinkedIn:</b> <a href="https://www.linkedin.com/in/usama-sohail-471aa0116/">linkedin.com/in/usama-sohail-471aa0116</a> <br>
-  🏙️ <b>Location:</b> Lahore, Pakistan
+  📧 <a href="mailto:usamasohail28@gmail.com">usamasohail28@gmail.com</a> <br>
+  🔗 <a href="https://www.linkedin.com/in/usama-sohail-471aa0116/">linkedin.com/in/usama-sohail-471aa0116</a> <br>
+  📍 Lahore, Pakistan
 </p>
 
 ---
 
+<!-- FINAL ANIMATION -->
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=2EF7C1&center=true&vCenter=true&width=700&lines=Delivering+Quality+Through+Automation+and+Innovation;Continuous+Testing+%7C+Performance+%7C+DevOps;Thanks+for+Visiting+My+Testing+Lab+💚" alt="Final Typing Animation" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=24&pause=1000&color=00F5D4&center=true&vCenter=true&width=700&lines=Delivering+Quality+Through+Automation+%26+Innovation;Continuous+Testing+%7C+Performance+%7C+DevOps;Thanks+for+Visiting+💙+Usama+Sohail+Testing+Lab!" alt="Final Animation" />
 </div>
